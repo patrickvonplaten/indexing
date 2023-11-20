@@ -6,146 +6,146 @@
 5. Apel: 48
 6. Arendt, H.: 35, 96, 97, 103, 104, 235
 7. Awareness: 136, 202-204, 209, 236
-8. Benhabib, S.: 23, 97, 99, 100, 103, 108,
-9. Bennet: 55, 77, 81
-10. Bennis, W. : 38
-11. Boeing Case: 64
-12. Bolten, H.: 80
-13. Business Schools:
+8. Banality of Evil: 35-36
+9. Benhabib, S.: 23, 97, 99, 100, 103, 108,
+10. Bennet: 55, 77, 81
+11. Bennis, W. : 38
+12. Boeing Case: 64
+13. Bolten, H.: 80
+14. Business Schools:
     - Case method in: 38-39
     - Importance of dialogue in: 40-41, 46-47
     - Teaching ethics in: 90, 110
-14. Business:
+15. Business:
     - Decision-making: The impact of ethical considerations: 108-109
     - Emphasis of efficiency in: 48
     - Ethics in: 106-107
     - Relational company and responsibility: 41, 106, 112
     - Strategy: 106
-15. Coherence: 160, 208, 222-223
+16. Coherence: 160, 208, 222-223
     - Impact of Socratic Dialogue in: 224,227-228 (add case studies)
-16. Concrete others: 97, 108
-17. Corporate Social Responsibility (CSR):
+17. Concrete others: 97, 108
+18. Corporate Social Responsibility (CSR):
     - Ethical practices and stakeholder engagement: 106
     - Relation with dialogue: 30-33
-    - See also: stakeholder dialogue
-18. Debate:
+    - See also: Stakeholder dialogue
+19. Debate:
     - Difference to Dialogue: 30
     - General: 25, 31, 44, 80, 178, 191, 56
-19. Decent Society: 36, 100
-20. Dialogue:
+20. Decent Society: 36, 100
+21. Dialogue:
     - General Perspectives: 99, 112
     - Importance for ethical decision-making: 105-106, 236
     - Importance in organizations: 22-24, 26-27, 33, 38, 44, 115-156
     - Meaning of: 24
     - Philosophical perspectives: 22, 36, 38, 44
     - See also: Socratic dialogue
-21. Dixon, Nancy M.: 27, 33, 99
-22. Dogmatism: 70
-23. Egalitarian reciprocity: 99-100, 164
-24. Eichmann Trial: 35
-25. Elechus: 54, 56, 57, 61
+22. Dixon, Nancy M.: 27, 33, 99
+23. Dogmatism: 70
+24. Egalitarian reciprocity: 99-100, 164
+25. Eichmann Trial: 35
+26. Elechus: 54, 56, 57, 61
     - Constructive: 139-141, 152
-26. Enlarged Mentality: 96-97, 100, 103, 104
-27. Epojé: 136-137, 141
+27. Enlarged Mentality: 96-97, 100, 103, 104
+28. Epojé: 136-137, 141
     - see also: Judgement, moral judgment
-28. Ethics:
-    - Business: 29, 36, 90, 92, 96, 98, 103,  106-108, 205, 2010, 2026
+29. Ethics:
+    - Business: 29, 36, 90, 92, 96, 98, 103, 106-108, 205, 2010, 2026
     - Communicative: 27:  35
     - Integrative: 108
     - Role in decision-making of: 6, 30-31, 73-76, 79-81
     - Role of Integrity in: 108
     - Teaching of: 42, 93, 190, 138, 197
-29. Evil: 234,
-30. banality of Evil: 35-36
-30. Family business:
+30. Evil: 234,
+31. Family business:
     - Case studies of: 124, 128, 213-224
     - Dialogue in: 51, 69, 74-75
-31. Ferrater Mora, J., 155
-32. Freedom: 35, 70, 122-123,
-33. GVV, 66, 77, 79, 104-105, 112, 147, 170, 201, 219, 234-235
-34. Gadamer, Hans-Georg: 21-22, 34, 36- 38, 40, 42
-35. Generative: 236-238
+32. Ferrater Mora, J., 155
+33. Freedom: 35, 70, 122-123,
+34. GVV, 66, 77, 79, 104-105, 112, 147, 170, 201, 219, 234-235
+35. Gadamer, Hans-Georg: 21-22, 34, 36- 38, 40, 42
+36. Generative: 236-238
     - See also: debate
-36. Gentile, Mary C.: 1, 6, 31, 45, 105, 112
-37. Giving Voice to Values, 66, 77, 79, 104-105, 112, 147, 170, 201, 219, 234-235
-38. Goodstein, J. & Gentile, M. C.: 105, 112
-39. Greenpeace: 31-32
-40. Halal, W. E.: 41
-41. Hermeneutical allies, 226
-42. Hirschman, A.: 236
-43. Hobbes, T.: 109, 111
-44. Human rights: 36, 226
-45. IKEA Saudi Arabia Case: 106-107
-46. Ignorance: 35, 53-54, 61-64, 66, 70-71, 110, 152, 233-234.
-47. Isaacs, W.: 24, 28, 33, 41
-48. Judgement: 39, 52, 60, 67-69, 74, 76, 94, 95, 134, 136
+37. Gentile, Mary C.: 1, 6, 31, 45, 105, 112
+38. Giving Voice to Values, 66, 77, 79, 104-105, 112, 147, 170, 201, 219, 234-235
+39. Goodstein, J. & Gentile, M. C.: 105, 112
+40. Greenpeace: 31-32
+41. Halal, W. E.: 41
+42. Hermeneutical allies, 226
+43. Hirschman, A.: 236
+44. Hobbes, T.: 109, 111
+45. Human rights: 36, 226
+46. IKEA Saudi Arabia Case: 106-107
+47. Ignorance: 35, 53-54, 61-64, 66, 70-71, 110, 152, 233-234.
+48. Isaacs, W.: 24, 28, 33, 41
+49. Judgement: 39, 52, 60, 67-69, 74, 76, 94, 95, 134, 136
     - Moral: 96-98, 99, 104-105:  110-111
     - Reflective: 97
-    - Suspension of: 27, 28, 29, 99, 136-138:  150
     - See also: prejudices: enlarged mentality
-49. Justice: 24, 68, 91-92, 100-101, 224,
-50. Kant, I.:  29, 96, 107
-51. Knowledge: 42,53,  57, 62-64, 70, 127, 81, 105, 110, 233
-52. Kohlberg, L.: 40, 235
-53. Leadership:
+    - Suspension of: 27, 28, 29, 99, 136-138:  150
+50. Justice: 24, 68, 91-92, 100-101, 224,
+51. Kant, I.:  29, 96, 107
+52. Knowledge: 42,53,  57, 62-64, 70, 127, 81, 105, 110, 233
+53. Kohlberg, L.: 40, 235
+54. Leadership:
     - Importance of dialogue for: 42
     - See also: organizational culture
     - Styles of: 83-84, 109:  127
-54. Lease, J. E., McConnell, R. V., & Nord, M.: 42
-55. Lencioni, P. M.: 160
-56. Levinas, E.: 102,
-57. Liedtka, J.: 38
-58. Listening: 20-21, 23, 25, 27-28, 30, 37-38, 41, 47, 49, 79-80, 97-99, 108, 110, 119, 121-122, 151, 198
-59. Lozano, Josep M.: 29, 41, 106, 108
-60. Maieutic guide: 49-51, 54, 69, 72, 123-126, 161
+55. Lease, J. E., McConnell, R. V., & Nord, M.: 42
+56. Lencioni, P. M.: 160
+57. Levinas, E.: 102,
+58. Liedtka, J.: 38
+59. Listening: 20-21, 23, 25, 27-28, 30, 37-38, 41, 47, 49, 79-80, 97-99, 108, 110, 119, 121-122, 151, 198
+60. Lozano, Josep M.: 29, 41, 106, 108
+61. Maieutic guide: 49-51, 54, 69, 72, 123-126, 161
     - See also: Socratic facilitator.
-61. Maieutics: 43, 53, 54, 58, 62-63, 66, 69, 150
+62. Maieutics: 43, 53, 54, 58, 62-63, 66, 69, 150
     - See also: Socratic epistemology
-62. Margalit, A.: 36, 100
-63. McCambridge, J.: 27, 29, 34, 99
-64. Milgram, S.: 34-35
-65. Mill, J.S.: 21, 23, 26, 104, 116
-66. Moral: 42, 64, 68, 99, 108
-67. Morality,
+63. Margalit, A.: 36, 100
+64. McCambridge, J.: 27, 29, 34, 99
+65. Milgram, S.: 34-35
+66. Mill, J.S.: 21, 23, 26, 104, 116
+67. Moral: 42, 64, 68, 99, 108
+68. Morality,
     - Development of: 93-98, 100-111
     - Principles of: 34, 42, 56, 80, 99
     - See also: enlarged mentality, judgement
-68. Nelson, L.: 66-74, 205
-69. Organizational Culture:
+69. Nelson, L.: 66-74, 205
+70. Organizational Culture:
     - Impact and influence of dialogue in: 20-21, 25, 27, 41, 46, 75, 80-82, 85-86, 105, 33, 37, 83-87, 236, 25-27, 38-39, 76-81
     - Pressures of: 25, 35, 63, 103, 109, 125
     - Values of: 31, 119
-70. Padioleau, J. G.: 108, 112
-71. Plato: 22, 52-54, 56-59, 62-63, 72, 89
-72. Plurality: 77, 106-197
-73. Post-conventional: 40, 106, 235
+71. Padioleau, J. G.: 108, 112
+72. Plato: 22, 52-54, 56-59, 62-63, 72, 89
+73. Plurality: 77, 106-197
+74. Post-conventional: 40, 106, 235
     - See also: moral development
-74. Prejudices: 24-26, 52, 56, 58, 63, 70, 110, 131, 135, 138-139, 200
-75. Prison
+75. Prejudices: 24-26, 52, 56, 58, 63, 70, 110, 131, 135, 138-139, 200
+76. Prison
     - Case study of Socratic Dialogue in: 224, 226-231
     - Impact of Socratic Dialogue in rehabilitation from: 224, 227-228
     - Impact of Socratic Dialogue in: 56, 65, 95, 100, 135, 224, 227-228, 235
-76. Reflective professionals: 40, 42
+77. Reflective professionals: 40, 42
     - See also: post-conventional
-77. Regressive Inference: 67-69, 74, 205
-78. Relativism: 31, 93, 98-99
-79. Responsibility:
+78. Regressive Inference: 67-69, 74, 205
+79. Relativism: 31, 93, 98-99
+80. Responsibility:
     - Importance of critical thinking in: 36, 39, 85
     - Professional: 80, 20, 26, 29, 32, 124-125, 136, 202-207, 215
     - See also: reflective practitioners
-80. Rorty, R : 103
-81. Scharmer, O.: 236
-82. Scharmer, O.: 238
-83. Schön, Donald A.: 40
-84. Sen, A.: 91
-85. Senge, P. M.: 27, 28
-86. Shell: 31-32
-87. Silence: 118-119, 144, 150, 168
-88. Society,
+81. Rorty, R : 103
+82. Scharmer, O.: 236
+83. Scharmer, O.: 238
+84. Schön, Donald A.: 40
+85. Sen, A.: 91
+86. Senge, P. M.: 27, 28
+87. Shell: 31-32
+88. Silence: 118-119, 144, 150, 168
+89. Society,
     - Changes in: 205-206, 228
     - Lack of dialogue in: 30, 37, 40, 46, 74, 102, 109, 136, 229, 236
-89. Socrates: 25, 43, 52-53, 56, 58-59, 64, 69, 89-90, 116
-90. Socratic Dialogue Facilitator:
+90. Socrates: 25, 43, 52-53, 56, 58-59, 64, 69, 89-90, 116
+91. Socratic Dialogue Facilitator:
     - Challenges for: 163-167
     - Challenges for: 163-169
     - Commandments for: 149-152
@@ -153,10 +153,10 @@
     - Practical tips for: 167, 169
     - Questions to help the: 144-146
     - Responsibilities and guidance, 130-134, 158, 197
-    - Role of: 127-149: 
-    - Tips to consider: 158, 163
+    - Role of: 127-149:
     - See also: maieutic guides
-91. Socratic Dialogue:
+    - Tips to consider: 158, 163
+92. Socratic Dialogue:
     - A practical proposal for implementation of: 105-110
     - A reinterpretation of: 66-75
     - Benefits of: 75-87
@@ -171,26 +171,25 @@
     - Implementation of: 89-93
     - Introduction to: 20, 46-47, 52-66
     - Rules of: 120-127
+    - See also: maieutic guides, Socratic facilitator: Socratic epistemology
     - Teaching ethics through: 93-96
     - The pedagogy behind implementing: 115, 119
     - The roles of: 127
-    - See also: maieutic guides, Socratic facilitator: Socratic epistemology
-92. Socratic Epistemology: 53, 76, 95
-93. Stakeholder dialogue:
+93. Socratic Epistemology: 53, 76, 95
+94. Stakeholder dialogue:
     - Importance for collaboration of: 29, 23, 26, 33, 41, 100, 104
-    - Significance for ethical decision-making of: 31-32, 47, 104-105, 106-107
     - See also: enlarged mentality, Socratic epistemology.
-94. Stewart, J. & Thomas, M.: 28, 42
-95. Truth,
+    - Significance for ethical decision-making of: 31-32, 47, 104-105, 106-107
+95. Stewart, J. & Thomas, M.: 28, 42
+96. Truth,
     - Change in the concept of: 91-94, 98
     - Search for: 22, 23, 25, 27, 30, 47, 53, 56, 61-62, 69-70, 111, 116
     - See also: Knowledge, Socratic dialogue, Socratic epistemology, Socratic facilitation.
-96. Tugendhat, E.: 94, 96, 224-225
-97. Values: 31, 6, 31, 42, 160
+97. Tugendhat, E.: 94, 96, 224-225
+98. Values: 31, 6, 31, 42, 160
     - See also: moral judgement
-98. Van Rossem, K.: 56, 134,
-99. Virtue: 53, 57, 62-63, 66, 90, 148
+99. Van Rossem, K.: 56, 134,
+100. Virtue: 53, 57, 62-63, 66, 90, 148
     - See also, judgement, morality, Socratic epistemology.
-100. Volkswagen Emissions Scandal: 82-83
-101. Winterkorn, M.: 83
-
+101. Volkswagen Emissions Scandal: 82-83
+102. Winterkorn, M.: 83

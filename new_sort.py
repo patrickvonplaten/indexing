@@ -12,7 +12,14 @@ def read_and_process_file(filename):
             current_key = ' '.join(line.strip().split(' ')[1:])
             entries[current_key] = []
         elif current_key:
-            entries[current_key].append(line.strip())
+            # Ensure a colon before the page numbers
+            line = line.strip()
+            if ',' in line:
+                parts = line.rsplit(',', 1)
+                line = f"{parts[0]}: {parts[1]}"
+            elif ':' not in line:
+                line = f"{line}:"
+            entries[current_key].append(line)
 
     return entries
 
@@ -21,7 +28,6 @@ def write_sorted_file(entries, filename):
         count = 1
         for key in sorted(entries.keys()):
             file.write(f"{count}. {key}\n")
-            # Sort sub-entries before writing
             for value in sorted(entries[key]):
                 file.write(f"    {value}\n")
             count += 1
